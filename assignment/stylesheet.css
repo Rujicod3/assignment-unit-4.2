@@ -1,0 +1,20 @@
+header {
+    background-color: black;
+}
+h2 {
+    background-color: green;
+    font-style: italic;
+    color: beige;
+}
+
+img{
+    border: solid, 10px, color(midnightblue);
+    border-radius: 50px, 50px;
+    background-color: midnightblue;
+
+}
+
+h3 {
+    background-color: black;
+    color: red;
+}
